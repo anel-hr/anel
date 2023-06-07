@@ -1,0 +1,10 @@
+# IDE
+.idea/
+
+# tests
+.pytest_cache/
+.tox/
+.coverage
+
+# env
+*.env
